@@ -134,13 +134,13 @@ html {
   display: flex;
   flex-direction: column;
   gap: 22px;
-  background-image: url("./assets/background-images/banner-planet.svg"),
+  background-image: url("./assets/background-images/banner-planet.png"),
     linear-gradient(
       180deg,
       rgba(0, 0, 0, 0) -0.52%,
       rgba(15, 20, 32, 0.79) 99.48%
     ),
-    url("./assets/background-images/banner-space.svg");
+    url("./assets/background-images/banner-space.png");
   background-position: right bottom 30%, center, left;
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-size: auto, cover, cover;
@@ -205,17 +205,17 @@ html {
   }
 
   &__card--1 {
-    @include offers-card-bckg("./assets/background-images/card1-space.svg");
+    @include offers-card-bckg("./assets/background-images/card1-space.png");
     grid-row: 1;
     grid-column: span 2;
   }
 
   &__card--2 {
-    @include offers-card-bckg("./assets/background-images/card2-space.svg");
+    @include offers-card-bckg("./assets/background-images/card2-space.png");
   }
 
   &__card--3 {
-    @include offers-card-bckg("./assets/background-images/card3-space.svg");
+    @include offers-card-bckg("./assets/background-images/card3-space.png");
   }
 
   &__card--2,
@@ -240,7 +240,7 @@ html {
   }
 
   &__card--4 {
-    @include offers-card-bckg("./assets/background-images/card4-space.svg");
+    @include offers-card-bckg("./assets/background-images/card4-space.png");
     grid-row: 3;
     grid-column: span 2;
   }
@@ -356,9 +356,9 @@ html {
   .banner {
     height: 420px;
     padding: 100px 0 100px 30px;
-    background-image: url("./assets/background-images/banner-planet.svg"),
+    background-image: url("./assets/background-images/banner-planet.png"),
       linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(15, 20, 32, 0.79) 100%),
-      url("./assets/background-images/banner-space.svg");
+      url("./assets/background-images/banner-space.png");
     background-position: right -20% bottom 50%, center, left;
     background-size: 300px, cover, cover;
 
