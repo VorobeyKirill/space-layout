@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ba8f2e2.css",
+    "main.js": "/static/js/main.ceebb31f.js",
+    "static/js/453.e901918d.chunk.js": "/static/js/453.e901918d.chunk.js",
+    "static/media/banner-space.svg": "/static/media/banner-space.7d89c103d4a40771f5cd.svg",
+    "static/media/banner-planet.svg": "/static/media/banner-planet.8019586cfa8fa3a124e6.svg",
+    "static/media/footer-rocket.svg": "/static/media/footer-rocket.bfaf46e90c7df8ff2d5a07eb1e3f5d32.svg",
+    "static/media/card3-space.svg": "/static/media/card3-space.6f6e1d73bdfcf95694f9.svg",
+    "static/media/card4-space.svg": "/static/media/card4-space.a303b2e162866a538411.svg",
+    "static/media/card1-space.svg": "/static/media/card1-space.897a61f34df01be6ebf3.svg",
+    "static/media/card2-space.svg": "/static/media/card2-space.a5f9e2feaadde4a72b57.svg",
+    "static/media/logo-text.svg": "/static/media/logo-text.1e74a30d21f27d86e9513ab640d5af82.svg",
+    "static/media/logo-planet.svg": "/static/media/logo-planet.97d472698355feff7a891174f929005b.svg",
+    "static/media/cart-gradient.svg": "/static/media/cart-gradient.828a4306976bce163faf.svg",
+    "static/media/cart.svg": "/static/media/cart.0a7e523a25224505b606.svg",
+    "static/media/burger-menu.svg": "/static/media/burger-menu.ef856b230a972a1b296f.svg",
+    "static/media/burger-menu-cross.svg": "/static/media/burger-menu-cross.79b0de459ac96b81b2d5.svg",
+    "index.html": "/index.html",
+    "main.8ba8f2e2.css.map": "/static/css/main.8ba8f2e2.css.map",
+    "main.ceebb31f.js.map": "/static/js/main.ceebb31f.js.map",
+    "453.e901918d.chunk.js.map": "/static/js/453.e901918d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ba8f2e2.css",
+    "static/js/main.ceebb31f.js"
+  ]
+}
